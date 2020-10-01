@@ -10,13 +10,15 @@ def third_challenge
         age: "54"
         },
       :hero => {
-        #your key/value pairs here
+        name: "Romeo",
+        age: "15",
+        ststus: "alive"
         },
       :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        #your key/value pairs here
+       
         },
       :matriarch => {
         #your key/value pairs here
